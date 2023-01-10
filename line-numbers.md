@@ -6,9 +6,9 @@
 #### 6
 #### 7 Mahrus was outside!
 #### 8
-#### 9 GitHub is really awesome!
+#### 9 
 #### 10
-#### 11 I love cars very much!
+#### 11
 #### 12
 #### 13
 #### 14
