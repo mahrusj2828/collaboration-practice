@@ -6,7 +6,7 @@
 #### 6
 #### 7 Mahrus was outside!
 #### 8
-#### 9 GitHub is really cool!
+#### 9 GitHub is awesome.
 #### 10
 #### 11
 #### 12
