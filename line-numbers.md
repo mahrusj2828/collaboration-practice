@@ -4,7 +4,7 @@
 #### 4
 #### 5 Brian was at home!
 #### 6
-#### 7
+#### 7 Mahrus was outside!
 #### 8
 #### 9
 #### 10
