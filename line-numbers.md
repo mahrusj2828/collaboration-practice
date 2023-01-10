@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome!
 #### 10
-#### 11 I love cars!
+#### 11 I love cars very much!
 #### 12
 #### 13
 #### 14
