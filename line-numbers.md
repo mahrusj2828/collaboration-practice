@@ -8,7 +8,8 @@
 #### 8
 #### 9 GitHub is really awesome.
 #### 10
-#### 11 Brian is the best at responding text message.
+#### 11 Brian is the okay at responding text message.
+#### 11
 #### 12
 #### 13
 #### 14
